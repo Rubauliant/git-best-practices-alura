@@ -22,5 +22,4 @@ Quando alguém faz um commit em uma branch em que você trabalha, temos um `diff
 
 > Um push pode ter vários commits, em que esses commits são feitos por arquivo, e não por diretório.
 
-mais uma linha
 
